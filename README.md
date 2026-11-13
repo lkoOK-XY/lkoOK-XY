@@ -11,5 +11,3 @@
 ![C++](https://img.shields.io/badge/C++-%20?style=flat-square&logo=cplusplus&logoColor=white&color=pink)
 ![Python](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=3178C6)
 
-## Public Keys
-### SSH: [Click me!]()
