@@ -13,3 +13,5 @@
 ![Python](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=3178C6)
 ![Java](https://img.shields.io/badge/Java-%20?style=flat-square&logo=openjdk&logoColor=white&color=ED8B00)
 
+## GitHub Status
+![GitHub Stats](https://stats.programcx.cn/api?username=lkoOK-XY&show_icons=true&theme=radical&hide_border=true)
